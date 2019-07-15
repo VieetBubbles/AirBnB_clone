@@ -1,0 +1,33 @@
+.places article{
+    width: 390px;
+    padding: 20px;
+    margin: 20px;
+    border: solid #FF5A5F 1px;
+    border-radius: 4px;
+    position: relative;
+}
+
+.box1 {
+    left: 11px;
+}
+
+.box2 {
+    left: 485px;
+    bottom: 132px;
+}
+
+.box3 {
+    left: 250px;
+    top: -106px;
+}
+
+.places h1{
+    align-items: left;
+    font-size: 30px;
+}
+
+.places h2{
+    font-size: 30px;
+    text-align: center;
+    margin-top: 8px;
+}
