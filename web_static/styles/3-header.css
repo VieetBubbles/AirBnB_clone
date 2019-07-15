@@ -2,7 +2,7 @@ header {
     height: 70px;
     width: 100%;
     position: fixed;
-    top: 0;
+    top: 0px;
     color: white;
     border-bottom: 1px solid #CCCCCC;
     background-image: url(".../images/logo.png");
