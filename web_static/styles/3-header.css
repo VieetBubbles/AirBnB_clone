@@ -5,7 +5,7 @@ header {
     top: 0px;
     color: white;
     border-bottom: 1px solid #CCCCCC;
-    background-image: url(".../images/logo.png");
-    align-items: left;
+    background-image: url("../images/logo.png");
     background-repeat: no-repeat;
+    background-position: center left 14px;
 }
